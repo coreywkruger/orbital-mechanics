@@ -1,0 +1,32 @@
+{
+  "name": "orbital-mechanics-portal",
+  "version": "0.0.0",
+  "author": "Corey Kruger <coreywkruger@gmail.com>",
+  "dependencies": {
+    "bower": "^1.3.3",
+    "http-proxy": "^1.8.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "chai-as-promised": "^4.1.1",
+    "gulp": "^3.6.2",
+    "gulp-clean": "^0.2.4",
+    "gulp-concat": "^2.2.0",
+    "gulp-uglify": "^0.2.1",
+    "gulp-sass": "^0.7.1",
+    "gulp-util": "^2.2.14",
+    "connect": "^2.14.5",
+    "bower": "^1.3.3",
+    "gulp-angular-templatecache": "^1.3.0",    
+    "jasmine": "^2.1.0",
+    "karma": "^0.12.24",
+    "karma-chai-plugins": "^0.2.3",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-coverage": "^0.2.6",
+    "karma-jasmine": "^0.2.3",
+    "karma-mocha": "^0.1.9",
+    "karma-sinon-chai": "^0.2.0",
+    "mocha": "^1.21.5",
+    "yargs": "^1.3.1"
+  }
+}

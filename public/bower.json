@@ -1,0 +1,33 @@
+{
+  "name": "repo-stellar-user-portal",
+  "version": "0.0.0",
+  "authors": [
+    "Corey Kruger <coreywkruger@gmail.com>"
+  ],
+  "main": "['dist/js/all.min.js']",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.0",
+    "angular": "1.3.2",
+    "angular-ui-router": "~0.2.10",
+    "restangular": "~1.4.0",
+    "underscore": "~1.6.0",
+    "angular-local-storage": "~0.0.3",
+    "ng-debounce": "~0.1.4",
+    "uikit": "~2.14.0",
+    "threejs": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.0"
+  },
+  "resolutions": {
+    "angular": "1.3.2"
+  }
+}
